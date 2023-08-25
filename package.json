@@ -19,6 +19,5 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
-    "appsflyer-unity-plugin": "6.10.10"
   }
 }
