@@ -19,6 +19,6 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
-    "appsflyer-unity-plugin": "https://github.com/AppsFlyerSDK/appsflyer-unity-plugin.git#upm"
+    "com.neuecc.unirx": "7.1.0"
   }
 }
