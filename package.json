@@ -22,5 +22,18 @@
     "com.neuecc.unirx": "7.1.0",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.ugui": "1.0.0"
-  }
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.cn",
+      "url": "https://package.openupm.cn",
+      "scopes": [
+        "com.neuecc.unirx",
+        "com.cysharp.unitask",
+        "com.coffee.ui-particle",
+        "com.coffee.softmask-for-ugui",
+        "com.dbrizov.naughtyattributes"
+      ]
+    }
+  ]
 }
