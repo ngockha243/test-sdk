@@ -17,8 +17,5 @@
     "name": "Unity",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
-  },
-  "dependencies": {
-    "com.unity.ugui": "1.0.0"
   }
 }
