@@ -19,6 +19,8 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
+    "com.neuecc.unirx": "7.1.0",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.ugui": "1.0.0"
   }
 }
