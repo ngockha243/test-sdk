@@ -17,5 +17,10 @@
     "name": "Unity",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
+<<<<<<< HEAD
+=======
+  },
+  "dependencies": {
+>>>>>>> 97878687a57a98be728eed8bca847ad0607e52a1
   }
 }
