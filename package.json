@@ -19,5 +19,6 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
+    "com.neuecc.unirx": "7.1.0"
   }
 }
