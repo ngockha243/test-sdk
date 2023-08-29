@@ -17,9 +17,5 @@
     "name": "Unity",
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
-  },
-  "dependencies": {
-    "com.coffee.ui-particle": "4.2.1",
-    "com.coffee.softmask-for-ugui": "1.0.2"
   }
 }
